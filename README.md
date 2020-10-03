@@ -1,4 +1,4 @@
-# Node Express Milestones
+# Node Express Milestones (in progress)
 
 Below is a list of tasks. By mid-semester, everyone should...
 
